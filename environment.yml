@@ -13,3 +13,4 @@ dependencies:
   - lmfit
   - mantidworkbench
   - pytest
+  - multiprocess
